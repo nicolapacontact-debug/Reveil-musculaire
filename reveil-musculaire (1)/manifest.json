@@ -1,0 +1,17 @@
+{
+  "name": "Réveil musculaire à la maison",
+  "short_name": "Réveil musculaire",
+  "description": "Le programme de 16 séances de Nico l'APA, 2 séances de 30 minutes par semaine.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F4EC",
+  "theme_color": "#F5F4EC",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
